@@ -1,0 +1,42 @@
+40
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Houston|New Orleans|120|68
+New Orleans|Atlanta|115|72
+Atlanta|Charlotte|130|79
+Charlotte|Miami|150|94
+Miami|Orlando|90|45
+Orlando|Tampa|85|39
+Tampa|Dallas|140|120
+Dallas|San Antonio|110|55
+San Antonio|Austin|80|35
+Austin|Dallas|95|50
+Houston|San Antonio|87|40
+Atlanta|Pensacola|105|60
+Pensacola|New Orleans|95|55
+Charlotte|Nashville|125|80
+Nashville|Dallas|135|110
+New Orleans|Birmingham|100|65
+Birmingham|Atlanta|98|58
+Houston|Tampa|145|95
+Tampa|Miami|95|55
+Miami|New Orleans|130|90
+New Orleans|Austin|120|85
+Austin|Charlotte|150|100
+Dallas|Atlanta|140|85
+Atlanta|Miami|160|105
+Houston|Orlando|155|110
+Orlando|Dallas|165|120
+Charlotte|Houston|175|125
+Miami|San Antonio|170|115
+San Antonio|Jacksonville|130|90
+Jacksonville|Atlanta|125|80
+Austin|Orlando|160|100
+Dallas|Pensacola|115|75
+Pensacola|Houston|110|70
+Charlotte|Tampa|140|95
+Tampa|San Antonio|135|90
+San Antonio|Birmingham|120|85
+Birmingham|Miami|145|100
+Jacksonville|Miami|95|50
