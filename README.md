@@ -27,3 +27,12 @@ Flight: Dallas, Houston (Time)
 
 Path 1: Dallas -> Houston. Time: 51 Cost: 101
 Path 2: Dallas -> Austin -> Houston. Time: 86 Cost: 193
+
+
+## How to Run
+
+Compile:
+
+Run:
+
+The program will read input data and generate the best routes in `Output.txt`.
